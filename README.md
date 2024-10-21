@@ -132,9 +132,12 @@ To run this project locally, follow these steps:
 
 ## **Acknowledgments**
 
+
 This project is built using the following libraries:
+
 - [Pandas](https://pandas.pydata.org/): For data manipulation.
-- [Resources]([https://pandas.pydata.org/](https://drive.google.com/drive/folders/1QzwikZnHYsfS-eE8frA-PbIZj95XuPB_?usp=drive_link)):  Resources
+- [Resources](https://drive.google.com/drive/folders/1QzwikZnHYsfS-eE8frA-PbIZj95XuPB_?usp=drive_link): Additional resources.
 - [Scikit-learn](https://scikit-learn.org/): For building the TF-IDF matrix.
 - [Annoy](https://github.com/spotify/annoy): For fast approximate nearest neighbors search.
-- [Pickle](https://docs.python.org/3/library/pickle.html): For saving and loading the models.
+- [Pickle](https://docs.python.org/3/library/pickle.html): For saving and loading models.
+
