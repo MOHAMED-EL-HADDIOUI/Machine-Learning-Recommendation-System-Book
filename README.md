@@ -62,7 +62,9 @@ To run this project locally, follow these steps:
  ┣ 📜book_recommendation.py      # Main script containing the recommendation logic
  ┣ 📜README.md                   # Project documentation
  ┗ 📜requirements.txt            # List of required Python packages
+
 ```
+[Resources]([https://pandas.pydata.org/](https://drive.google.com/drive/folders/1QzwikZnHYsfS-eE8frA-PbIZj95XuPB_?usp=drive_link))
 
 ## **Features**
 
