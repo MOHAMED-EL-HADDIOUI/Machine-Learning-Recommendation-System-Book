@@ -1,6 +1,6 @@
 Flask==3.0.3
 fastai==2.7.17
 pandas==2.2.3
-torch==2.4.1
+torch==2.7.0
 annoy==1.17.3
 scikit-learn==1.5.2
